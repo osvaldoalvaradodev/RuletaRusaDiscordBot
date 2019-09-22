@@ -4,7 +4,7 @@ Este es un bot que de forma aleatoria Kickea usuarios desde un canal de discord.
 
 ## ¿Como usarlo?
 Deben instalarl el BOT desde el siguiente Link:
-[Url Para Incluir el Bot Click Aqui](https://discordapp.com/oauth2/authorize?client_id=625339939092955137&scope=bot&permissions=0)
+[Url Para Incluir el Bot Click Aqui](https://discordapp.com/oauth2/authorize?client_id=625339939092955137&scope=bot&permissions=8)
 
 
 Simplemente una vez instalado el BOT se debe ejecutar en cualquier canal el siguiente comando:
